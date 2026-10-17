@@ -1,11 +1,11 @@
 {
-  "versionCode": 204,
-  "versionName": "0.6.104",
-  "url": "https://github.com/naanumv/mns-public/releases/download/tts-0.6.104/MNS-TTS-0.6.104.apk",
-  "sha256": "D2DC72C2D9E3CCD8D5B1899CCA07863017200DBD3A230DBD4D7D93C60FAB5592",
-  "size": 111085,
+  "versionCode": 206,
+  "versionName": "0.6.106",
+  "url": "https://github.com/naanumv/mns-public/releases/download/tts-0.6.106/MNS-TTS-0.6.106.apk",
+  "sha256": "5DB4C2AB54D8816296D6B6CDD3A7AAA4547F0E3398FF3CA59E55BE6A25B3D859",
+  "size": 111509,
   "important": false,
-  "notes": "Speech on the lock screen right after a restart. New Help and About with clear explanations of every feature. Contact us on Telegram for problems and feedback. Updates now arrive inside the app. Long readings no longer stop early.",
-  "publishedAt": "2026-10-17T13:35:42Z",
+  "notes": "Sections are now announced as sections. Focus returns to where you were after going back. Subscription changes appear as soon as you open the app.",
+  "publishedAt": "2026-10-17T14:06:17Z",
   "publishedBy": "Telegram bot"
 }
