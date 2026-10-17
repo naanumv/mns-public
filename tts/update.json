@@ -1,12 +1,12 @@
 {
-  "versionCode": 210,
-  "versionName": "0.6.110",
-  "url": "https://github.com/naanumv/mns-public/releases/download/tts-0.6.110/MNS-TTS-0.6.110.apk",
-  "sha256": "F0ADDD5701905C99A92B641DC563EEB3B482CB0E6D363F3876362999F0F73D3D",
-  "size": 112437,
+  "versionCode": 212,
+  "versionName": "0.6.112",
+  "url": "https://github.com/naanumv/mns-public/releases/download/tts-0.6.112/MNS-TTS-0.6.112.apk",
+  "sha256": "7ECE308F8F3697E14D489A296F805BBFE85EE9FE13AEAB1DD46808E80B0DDD81",
+  "size": 112937,
   "important": false,
-  "notes": "New: Report a problem. In Help and About, tap Report a problem and tell us what happened by text or voice. Technical details are added for you, never what you read. Audio delivery check also shows more details and can send a report.",
-  "publishedAt": "2026-10-17T17:03:07Z",
+  "notes": "Fixer issue while reading long text",
+  "publishedAt": "2026-10-17T17:47:28Z",
   "publishedBy": "Telegram bot",
-  "publishRun": 39052043271
+  "publishRun": 39055275475
 }
