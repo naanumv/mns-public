@@ -1,11 +1,12 @@
 {
-  "versionCode": 206,
-  "versionName": "0.6.106",
-  "url": "https://github.com/naanumv/mns-public/releases/download/tts-0.6.106/MNS-TTS-0.6.106.apk",
-  "sha256": "5DB4C2AB54D8816296D6B6CDD3A7AAA4547F0E3398FF3CA59E55BE6A25B3D859",
+  "versionCode": 207,
+  "versionName": "0.6.107",
+  "url": "https://github.com/naanumv/mns-public/releases/download/tts-0.6.107/MNS-TTS-0.6.107.apk",
+  "sha256": "677358ACBE3854B4FE64AA5B4BCD12839FA8B3118A29F97E821E14210181D208",
   "size": 111509,
   "important": false,
   "notes": "Sections are now announced as sections. Focus returns to where you were after going back. Subscription changes appear as soon as you open the app.",
-  "publishedAt": "2026-10-17T14:06:17Z",
-  "publishedBy": "Telegram bot"
+  "publishedAt": "2026-10-17T14:38:03Z",
+  "publishedBy": "Telegram bot",
+  "publishRun": 39041569317
 }
