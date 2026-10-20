@@ -1,12 +1,12 @@
 {
-  "versionCode": 229,
-  "versionName": "0.6.129",
-  "url": "https://github.com/naanumv/mns-public/releases/download/tts-0.6.129/MNS-TTS-0.6.129.apk",
-  "sha256": "69C61A9D782EA0C5C7381E7817773187A17536D25B04AB82B8A2024D2C77675F",
-  "size": 138721,
-  "important": false,
-  "notes": "What's new\n\n\u2022 Volume, pitch and speed for each voice: make one voice louder, softer, higher or slower so all your voices sound balanced.\n\u2022 Simpler Voices section: tap a voice to choose it, its language, or its volume, pitch and speed.\n\u2022 Improved Dhivehi dictionary: corrected sounds for several letters, clearer letter and fili names.\n\u2022 Arabic correction dictionaries now keep whole words and verses together, so Quran reading stays smooth.\n\u2022 Each dictionary can have its own voice, and its voice settings are kept when you export and share it.\n\u2022 Fancy letters (like \ud835\udddb\ud835\uddd8\ud835\udddf\ud835\udddf\ud835\udde2) are now read as normal words.\n\u2022 Better problem reports: a reading that stopped is remembered, so problems are easier to find. Your text is never included.",
-  "publishedAt": "2026-10-19T17:07:01Z",
+  "versionCode": 234,
+  "versionName": "0.6.134",
+  "url": "https://github.com/naanumv/mns-public/releases/download/tts-0.6.134/MNS-TTS-0.6.134.apk",
+  "sha256": "EC4B28AA1F81DE5D6B67B15B90D4E5ACA20C2569315EE66DD2D1F163FAD9D571",
+  "size": 145013,
+  "important": true,
+  "notes": "What's new:\n\u2022 After restarting the phone, speech works on the lock screen, and your main voice returns as soon as you unlock.\n\u2022 Fewer silent stops: if a voice goes quiet after you swipe, MNS TTS now continues within 2 seconds.\n\u2022 Arabic and other special voices: if one is slow to start, your voice for other languages reads instead.\n\u2022 Reports now show exactly where and why a reading stopped.\n\nIf a reading still stops, tap Report a problem right away. Your text is never included.",
+  "publishedAt": "2026-10-20T13:57:15Z",
   "publishedBy": "Telegram bot",
-  "publishRun": 39291331718
+  "publishRun": 39434856020
 }
